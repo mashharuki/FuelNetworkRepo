@@ -1,0 +1,2 @@
+# FuelNetworkRepo
+モジュラー型ブロックチェーンFuel Networkに関するサンプルリポジトリです。
